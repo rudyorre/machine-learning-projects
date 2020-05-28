@@ -5,7 +5,7 @@
 
 int main()
 {
-	ifstream training_data("training_data_5.txt");
+	ifstream training_data("data/training_data_5.txt");
 
 	Model model(training_data);
 
