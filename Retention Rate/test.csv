@@ -1,0 +1,420 @@
+Course,Name,A,B,C,IPP,D,INP,F,W,Total,Success (%),Completion (%)
+FAID-1,"Blount, Richard",9,4,0,0,3,0,0,5,21,62,76
+FAID-1,"Granger, Traci",24,2,1,0,0,1,0,4,32,84,88
+PE-111ABC,"Hazell, Elizabeth",15,0,0,0,0,0,0,1,16,94,94
+PE-135ABC,"Alvillar, Andrew",51,0,0,0,0,0,0,2,53,96,96
+PE-135ABC,"Lindheim, Gifford",12,4,2,0,0,3,0,0,21,86,100
+PE-135ABC,"Roman, Danielle",12,1,0,0,0,0,0,0,13,100,100
+PE-16ABC,"Uphoff, Robert",13,0,0,0,0,0,0,1,14,93,93
+PE-21ABC,"Lofgren, Dean",16,0,0,0,0,0,0,2,18,89,89
+PE-257,"Granger, Traci",16,0,0,0,0,0,0,0,16,100,100
+PE-3,"Alvillar, Andrew",26,0,0,0,0,2,0,0,28,93,100
+PE-3,"Rapoza, Jessica",33,0,0,0,0,0,0,11,44,75,75
+PE-400,"Lipe, Mark",11,0,0,0,0,0,0,0,11,100,100
+PE-61ABC,"Dunn, Darin",17,0,0,0,0,0,0,1,18,94,94
+PE-7,"Palmer, Grant",29,0,0,0,0,0,0,0,29,100,100
+PE-7,"Rapoza, Jessica",42,0,0,0,0,0,0,2,44,95,95
+PE-71ABC,"Jacobson, Michael",20,0,1,0,0,1,0,1,23,91,96
+PE-86ABC,"Haroldson, Shelby",10,0,0,0,0,0,0,1,11,91,91
+PE-86ABC,"Rubke, Noah",9,0,3,0,0,0,0,0,12,100,100
+RC-176,"Mekaru, Roy",0,4,8,0,0,5,0,0,17,71,100
+RC-284,"Mekaru, Roy",5,13,1,0,0,0,0,0,19,100,100
+RC-295,"Mekaru, Roy",0,4,7,0,0,5,0,0,16,69,100
+RC-295,"Robertson, Victoria",0,4,7,0,0,5,0,0,16,69,100
+RTEC-104,"Charman, Dawn",21,1,0,0,0,0,0,0,22,100,100
+RTEC-104,"Luna, Rosa",21,1,0,0,0,0,0,0,22,100,100
+RTEC-104,"McFaul, Colleen",21,1,0,0,0,0,0,0,22,100,100
+RTEC-220,"Bradshaw, Jeffrey",21,0,0,0,0,0,0,0,21,100,100
+RTEC-220,"Charman, Dawn",21,0,0,0,0,0,0,0,21,100,100
+RTEC-220,"McFaul, Colleen",21,0,0,0,0,0,0,0,21,100,100
+RTEC-220,"Perez Ynigues,Miche",21,0,0,0,0,0,0,0,21,100,100
+RTEC-220,"Villa, Eric",21,0,0,0,0,0,0,0,21,100,100
+RTEC-91,"McFaul, Colleen",9,12,1,0,0,0,0,0,22,100,100
+FASH-99,"Ashley, Vera",0,0,0,0,0,1,0,0,1,0,100
+FTEC-138,"Huben, Kevin",0,0,0,24,0,0,0,0,24,100,100
+CSCI-1,"Middler, Mitchell",25,5,3,0,1,5,1,6,46,72,87
+CSCI-1,"Russell, Solomon",10,7,4,0,1,5,1,7,35,60,80
+MATH-170,"Roeun, Malinni",12,5,1,0,2,0,0,2,22,82,91
+MATH-73,"Song, Guoqiang",4,4,4,0,0,5,0,6,23,52,74
+ANAT-30,"Nagaya, Marie",21,8,2,0,0,2,0,2,35,89,94
+ANAT-32,"Le, Octavian",8,19,1,0,0,0,0,3,31,90,90
+ANAT-32,"Reonisto, Peter",9,7,2,0,0,3,0,7,28,64,75
+ANAT-32,"Valle, Anne",9,15,4,0,1,0,0,4,33,85,88
+APHY-34A,"Brennan, Michael",12,13,3,0,0,1,0,2,31,90,94
+ASTR-20,"Rodriguez, Julio",23,9,1,0,2,4,0,1,40,83,98
+ASTR-25,"Duitsman, Brooke",10,7,8,0,0,7,0,1,33,76,97
+BIOL-10,"Freeman, Nancy",21,6,7,0,0,2,0,2,38,89,95
+BIOL-10,"Lee, Samuel",2,4,4,0,5,8,0,5,28,36,82
+BIOL-10,"Len, Laurie",15,10,4,0,0,3,0,2,34,85,94
+BIOL-10,"MacDonald,Brandon",12,12,6,0,1,1,0,1,33,91,97
+BIOL-10,"Oswald, Sanda",20,4,2,0,0,0,0,3,29,90,90
+BIOL-10,"Parks, Polly",15,7,5,0,0,1,0,6,34,79,82
+BIOL-10H,"McClelland, Darcie",22,6,0,0,0,3,1,1,33,85,97
+CHEM-20,"Edison, Thomas",25,4,3,0,0,1,0,0,33,97,100
+CHEM-20,"Han, Steven",9,8,7,0,0,0,0,0,24,100,100
+CHEM-20,"Jimenez, Miguel",4,4,5,0,2,5,0,6,26,50,77
+CHEM-21A,"Tontcheva, Ana",7,2,5,0,1,2,0,5,22,64,77
+CHEM-4,"Altermatt, Robert",11,10,5,0,0,0,0,1,27,96,96
+CHEM-4,"Arasasingham,Premil",3,4,11,0,1,1,0,7,27,67,74
+CHEM-4,"Latifzadeh, Lida",14,10,4,0,1,1,0,1,31,90,97
+CHEM-4,"Saldarriaga, Laura",3,5,10,0,0,1,0,10,29,62,66
+CHEM-4,"Shibao, Robert",3,6,10,1,0,0,0,1,21,95,95
+GEOG-1,"Donegan, Rebecca",10,8,11,0,1,2,0,5,37,78,86
+GEOL-1,"Amin, Jwan",35,24,8,0,2,2,0,3,74,91,96
+MICR-33,"Ahad, Sally",13,7,5,0,4,2,0,4,35,71,89
+OCEA-10,"Ferrel, Aaron",12,7,4,0,4,0,0,4,31,74,87
+PHYO-31,"Mubarak, Merium",5,12,4,0,0,0,0,9,30,70,70
+PHYS-11,"Duitsman, Brooke",22,7,1,0,0,0,0,2,32,94,94
+PHYS-2A,"Roberts, Kevin",19,4,0,0,0,0,2,0,25,92,100
+PHYS-2A,"Said, Asma",8,11,3,0,1,1,0,7,31,71,77
+PHYS-2A,"Shirvanian, Razmic",13,6,6,0,0,1,0,3,29,86,90
+ANTH-1,"Gibson, David",6,4,13,0,1,5,0,11,40,58,73
+ANTH-1,"Olson, Kirsten",25,12,4,0,1,1,0,0,43,95,100
+ANTH-1,"Vigil, Alberto",48,20,6,0,1,1,0,9,85,87,89
+ANTH-1,"Waters,Marianne",36,21,7,0,3,4,0,14,85,75,84
+ANTH-2,"Mannen, Angela",44,20,5,0,2,2,0,7,80,86,91
+ANTH-3,"Olson, Kirsten",37,2,1,0,0,0,0,4,44,91,91
+ANTH-5,"Wong, Billy",17,4,1,0,0,1,0,1,24,92,96
+CDEV-103,"Jefferis, Janice",32,2,3,0,1,3,0,5,46,80,89
+CDEV-103,"Lopez-Arellano,Yadi",42,0,0,0,2,4,0,1,49,86,98
+CDEV-103,"Marano, Mark",19,5,2,0,1,5,0,6,38,68,84
+CDEV-103,"Marquez, Valerie",25,6,5,0,2,4,1,2,45,80,96
+CDEV-103,"Wilson, Brittany",26,9,4,0,1,7,0,3,50,78,94
+CDEV-103,"Young, Janet",34,5,3,0,0,0,1,5,48,88,90
+CDEV-104,"Baxter, Susan",33,6,3,0,0,0,0,7,49,86,86
+CDEV-114,"Baxter, Susan",28,4,1,0,0,3,0,13,49,67,73
+CDEV-150,"Young, Janet",40,8,1,0,1,1,0,0,51,96,100
+ECON-1,"Carter, Tanja",55,17,4,0,1,3,0,6,86,88,93
+ECON-1,"Fradkin, Michael",11,12,7,0,3,0,0,8,41,73,80
+ECON-1,"Inouye, Minehiro",23,20,7,0,1,8,0,12,71,70,83
+ECON-1,"Keskinel, Meric",38,35,11,0,2,3,0,4,93,90,96
+ECON-2,"Marschall, Brett",50,19,5,1,0,2,0,8,85,88,91
+ESTU-1,"Arrieta, Jose",29,6,2,0,0,2,0,3,42,88,93
+ESTU-1,"Herrera,Xocoyotzin",40,3,0,0,0,1,0,0,44,98,100
+HDEV-101,"Torres, Selene",15,5,3,0,1,4,0,1,29,79,97
+HDEV-105,"Colbeck, Amanda",10,4,2,0,1,3,0,1,21,76,95
+HDEV-115,"Chu, Yun",30,3,3,0,0,1,0,5,42,86,88
+HIST-101,"Black, Dustin",57,12,6,0,0,2,0,12,89,84,87
+HIST-101,"Hacholski,Matthew",23,25,7,0,4,9,0,16,84,65,81
+HIST-101,"Herrera Thomas,Hong",71,5,3,0,1,0,0,4,84,94,95
+HIST-101,"Smith, Lawrence",73,0,0,0,0,11,0,9,93,78,90
+HIST-101,"Swendson, Paul",17,18,23,0,3,7,1,12,81,72,85
+HIST-101,"Uribe, Sandra",26,16,17,0,5,5,4,15,88,67,83
+HIST-102,"Fraga, Michael",39,10,3,0,1,13,0,17,83,63,80
+HIST-102,"Goldenberg,Barry",57,16,6,0,2,2,0,4,87,91,95
+HIST-102,"Jaaska, Arne",78,3,1,0,1,2,0,1,86,95,99
+HIST-102,"Resnick, Kirsten",63,20,4,0,1,4,0,5,97,90,95
+HIST-102,"Zucker, Alfred",10,13,8,0,1,1,1,0,34,91,100
+HIST-112,"De La O, Ismael",26,2,1,0,4,3,0,4,40,73,90
+HIST-112,"Herrera,Xocoyotzin",33,3,2,0,2,2,0,4,46,83,91
+HIST-122H,"Arrieta, Jose",30,2,0,0,0,1,0,0,33,97,100
+HIST-140,"Pacas, Edgar",23,5,2,0,1,4,0,1,36,83,97
+HIST-140,"Suarez, Jason",41,11,6,0,1,7,0,12,78,74,85
+HIST-141,"Pacas, Edgar",22,4,0,0,0,4,0,5,35,74,86
+PHIL-101,"Fike, Lawrence",21,6,3,0,2,3,0,1,36,83,97
+PHIL-101,"Leon, Felipe",32,4,3,0,0,5,0,5,49,80,90
+PHIL-101,"Ramirez Noss,Meliss",41,3,1,0,0,0,0,1,46,98,98
+PHIL-101,"Shever, David",48,15,9,0,2,7,0,7,88,82,92
+PHIL-103,"Garcia, Roberto",16,8,9,0,3,8,0,5,49,67,90
+PHIL-103,"Leon, Felipe",22,11,4,1,1,3,0,3,45,84,93
+PHIL-106,"Garcia, Roberto",5,5,6,0,3,9,0,16,44,36,64
+POLI-1,"Casper, Joshua",51,29,8,0,0,2,0,5,95,93,95
+POLI-1,"Chaney, Van",73,1,1,0,1,5,0,9,90,83,90
+POLI-1,"Cranon-Charles,Ange",35,15,10,0,1,5,0,10,76,79,87
+POLI-1,"Flor, Paul",18,12,5,0,2,1,0,4,42,83,90
+POLI-1,"Gonzales, Steven",22,12,2,0,2,5,0,0,43,84,100
+POLI-1,"Gordon, Austin",55,24,4,0,0,3,0,2,88,94,98
+POLI-1,"Houske, Laurie",46,16,4,0,3,8,2,13,92,72,86
+POLI-1,"Jun, Christine",38,24,11,0,2,3,0,11,89,82,88
+POLI-1,"Munoz, Eduardo",32,39,4,0,1,7,0,4,87,86,95
+POLI-1,"Reed, David",25,8,0,0,0,3,0,5,41,80,88
+POLI-1,"Striepe, Karl",37,9,2,0,0,0,0,2,50,96,96
+POLI-10H,"Striepe, Karl",32,1,0,0,0,0,0,0,33,100,100
+POLI-7,"Reed, David",11,0,0,0,1,8,0,7,27,41,74
+PSYC-15,"Galbavy, Renee",50,14,10,0,0,6,0,14,94,79,85
+PSYC-15,"Mascolo, Richard",16,11,7,0,0,1,3,9,47,72,81
+PSYC-16,"Conn, Bradfield",63,9,7,0,0,2,0,4,85,93,95
+PSYC-16,"Himsel, Amy",42,16,7,0,0,6,0,17,88,74,81
+PSYC-16,"Huff, Micheal",27,28,17,0,4,3,0,13,92,78,86
+PSYC-2,"Farias, Julio",61,10,8,0,1,8,1,13,102,77,87
+PSYC-3,"Abdelhamid,Mohammed",7,10,6,0,3,2,0,4,32,72,88
+PSYC-5,"Abdelhamid,Mohammed",13,15,12,0,2,5,0,1,48,83,98
+PSYC-5,"Atkins, Sharona",23,11,5,0,1,3,0,6,49,80,88
+PSYC-5,"Farah, Yara",44,11,12,0,1,6,0,11,85,79,87
+PSYC-5,"Foley, Stephanie",31,6,1,0,1,0,0,8,47,81,83
+PSYC-5,"Kato, Lorrie",30,11,3,0,0,1,1,3,49,90,94
+PSYC-5,"Moshrefi, Farshid",74,24,5,0,0,3,0,3,109,94,97
+PSYC-5,"Simon, Angela",49,22,14,0,5,3,0,4,97,88,96
+PSYC-7,"Galvan, Eddie",23,21,16,0,2,7,0,14,83,72,83
+PSYC-7,"Huft, Justin",20,12,6,0,0,2,0,5,45,84,89
+PSYC-9A,"Dooley, Kevin",4,8,2,0,0,0,0,8,22,64,64
+PSYC-9A,"Nguyen, Kim-Lien",6,5,4,0,0,1,1,2,19,79,89
+PSYC-9B,"Airth, Dan",11,11,1,0,0,0,0,7,30,77,77
+PSYC-9B,"Dooley, Kevin",15,8,3,0,0,0,0,2,28,93,93
+PSYC-9B,"Montes, Roberto",6,10,3,0,0,5,0,2,26,73,92
+SOCI-101,"Allen, Stacey",57,16,5,0,1,4,0,14,97,80,86
+SOCI-101,"Bell-Blossom,Michel",18,12,6,0,0,1,0,6,43,84,86
+SOCI-101,"Fujiwara, Melissa",83,4,1,0,1,3,1,1,94,94,99
+SOCI-101,"Lindner, Allison",31,7,0,0,1,2,0,5,46,83,89
+SOCI-101,"Osterman,Robert",32,6,4,0,0,3,0,5,50,84,90
+SOCI-101,"Rodriguez,Jessica",30,3,4,0,2,3,0,5,47,79,89
+SOCI-102,"Din, Mediha",53,17,7,0,5,3,0,6,91,85,93
+SOCI-104,"Stone, Kell",64,11,6,0,0,4,0,4,89,91,96
+SOCI-112,"Aguilera, Peter",19,9,3,0,1,6,0,3,41,76,93
+WSTU-1,"Rippel, Katherine",26,17,13,0,1,6,2,6,71,79,92
+BUS-11,"Andersen, Scott",10,6,5,0,0,7,0,4,32,66,88
+BUS-14,"Alford, Lovell",15,11,6,0,1,1,2,3,39,82,92
+BUS-17,"Miranda, Xavier",15,10,3,0,0,2,0,7,37,76,81
+BUS-1A,"Giles, Brizset",11,8,5,0,0,0,0,8,32,75,75
+BUS-1A,"Hull, Kurt",37,11,10,0,1,5,0,6,70,83,91
+BUS-1A,"Kim, Julie",13,10,4,0,0,3,0,4,34,79,88
+BUS-1A,"Mares, Samuel",5,9,5,0,0,7,0,10,36,53,72
+BUS-1B,"Blanshard,Arnold",8,1,5,1,0,1,0,2,18,83,89
+BUS-1B,"Giles, Brizset",19,5,4,0,0,0,0,3,31,90,90
+BUS-1B,"Porter, Sidney",11,15,4,0,2,4,0,8,44,68,82
+BUS-20,"Green, Karen",30,17,9,1,3,3,0,10,73,78,86
+BUS-22,"Alford, Lovell",14,28,15,0,1,2,2,9,71,80,87
+BUS-25,"Chau, Yuen",13,13,12,0,2,1,0,3,44,86,93
+BUS-28,"Miranda, Xavier",12,10,5,0,0,2,0,1,30,90,97
+CIS-13,"Chaban, Monica",38,16,4,0,0,1,0,5,64,91,92
+CIS-13,"Perkins, Richard",21,13,8,0,0,3,0,10,55,76,82
+CIS-13,"Siddiqui, Junaid",17,7,1,3,1,0,2,12,43,65,72
+LAW-4,"McGrue, Nicholas",16,24,16,0,1,11,0,7,75,75,91
+LAW-5,"Hess, Evan",12,24,18,0,2,6,0,13,75,72,83
+LAW-5,"Nguyen, Kevin",15,14,6,0,3,2,0,4,44,80,91
+RE-11,"Yeressian, John",39,4,1,0,0,0,0,4,48,92,92
+RE-13,"Yeressian, John",40,1,2,0,0,0,0,0,43,100,100
+RE-26,"DeLuca, Vincent",7,8,9,0,1,3,1,10,39,62,74
+ART-101,"Ahmadpour,Alireza",35,11,4,0,0,4,4,13,71,70,82
+ART-101,"Bronte, Andrea",17,6,8,0,1,3,0,5,40,78,88
+ART-101,"Majstorovic,Mina",31,2,1,0,0,0,0,1,35,97,97
+ART-101,"Robertson,Carolyn",21,12,2,0,0,5,0,1,41,85,98
+ART-101,"Russell, Elizabeth",23,11,2,0,0,0,0,7,43,84,84
+ART-101,"Wolfgram,Juliann",0,0,0,0,0,0,0,3,3,0,0
+ART-102A,"Alamillo, Lucy",22,5,2,0,1,6,0,1,37,78,97
+ART-102AH,"Alamillo, Lucy",26,0,0,0,0,1,0,0,27,96,100
+ART-110,"Hardesty, Joseph",15,2,0,0,0,0,2,4,23,74,83
+ART-110,"Phelps, Jennifer",18,4,0,0,0,2,0,4,28,79,86
+ART-130,"Ewing, Richard",7,7,2,0,0,1,0,6,23,70,74
+ART-130,"Sheehan,Katherine",7,7,7,0,1,0,0,1,23,91,96
+ART-141,"Estrada, Diana",7,2,1,0,2,4,0,8,24,42,67
+ART-150,"Nelson, Mark",13,8,0,0,0,3,0,1,25,84,96
+ART-150,"Rowan, Darilyn",45,1,0,0,0,0,0,6,52,88,88
+COMS-100,"Crossman, Diana",21,14,5,0,2,1,0,10,53,75,81
+COMS-100,"Crossman, Mark",43,4,1,0,0,1,0,11,60,80,82
+COMS-100,"Evans, Joseph",29,0,0,0,0,1,0,1,31,94,97
+COMS-100,"Hubble, Brittany",11,4,3,1,0,1,0,5,25,76,80
+COMS-100,"Janke, Kelly",17,4,5,0,0,3,0,1,30,87,97
+COMS-100,"Jones, Casey",13,3,4,0,1,2,0,5,28,71,82
+COMS-100,"Matthews, Julia",7,9,4,0,2,1,0,5,28,71,82
+COMS-100,"Nagano, Daryle",12,4,0,0,0,0,0,10,26,62,62
+COMS-100,"Peterson, Elyse",6,9,3,0,1,5,0,3,27,67,89
+COMS-100,"Sadeghi-Tabrizi,Far",11,12,5,0,3,7,0,11,49,57,78
+COMS-100,"Salim, Faryha",12,4,2,0,5,8,0,0,31,58,100
+COMS-100,"Solomon, Chantel",12,5,5,0,0,2,0,7,31,71,77
+COMS-100,"Spencer, Jack",20,8,5,0,2,2,0,0,37,89,100
+COMS-100,"Storla, Kari",8,3,4,0,1,0,0,7,23,65,70
+COMS-100,"Wagner, Helene",11,13,6,0,1,6,0,9,46,65,80
+COMS-120,"Bishop, Francesca",8,9,4,0,0,4,0,5,30,70,83
+COMS-120,"Evans, Joseph",23,0,0,0,0,0,0,7,30,77,77
+COMS-130,"Swade, Rosemary",33,26,6,0,0,0,0,6,71,92,92
+COMS-265,"Bishop, Francesca",16,7,6,0,0,0,0,1,30,97,97
+DANC-101,"Berney, Daniel",47,10,7,2,0,7,1,10,84,79,88
+DANC-101,"Hojo, Hiroko",14,5,5,0,3,4,0,7,38,63,82
+DANC-130A,"Kondrath, Jessica",6,2,0,0,0,0,0,4,12,67,67
+DANC-130B,"Kondrath, Jessica",2,2,0,0,0,0,0,0,4,100,100
+DANC-230A,"Kondrath, Jessica",2,0,0,0,1,0,0,0,3,67,100
+FILM-110,"Bogdanski, James",2,15,8,0,0,2,0,8,35,71,77
+FILM-110,"Keller, Max",24,7,3,0,0,1,0,5,40,85,88
+FILM-110,"Vafaeisefat,Elyusha",36,3,3,0,0,0,0,2,44,95,95
+MUSI-101,"Chambers-Salazar, P",22,5,1,0,0,0,1,3,32,88,91
+MUSI-111,"Doyle, William",54,20,6,0,1,2,0,11,94,85,88
+MUSI-111,"Minei, Ryota",43,2,1,0,0,1,0,1,48,96,98
+MUSI-116,"Katznelson, Marci",12,7,5,0,3,5,0,4,36,67,89
+MUSI-120,"Moreno, Anthony",4,0,0,0,0,0,0,3,7,57,57
+MUSI-131A,"Chambers-Salazar, P",16,0,0,0,0,1,2,6,25,64,76
+MUSI-220,"Moreno, Anthony",3,1,0,0,0,0,0,0,4,100,100
+PHOT-101,"Quinn, Michael",6,6,3,0,0,0,0,4,19,79,79
+PHOT-150,"Nelson, Mark",7,1,0,0,0,2,0,2,12,67,83
+PHOT-150,"Rowan, Darilyn",45,4,0,0,0,0,0,10,59,83,83
+THEA-103,"Harrison, Ayla",14,16,4,0,0,1,0,0,35,97,100
+CH-1,"Fernley, Nathan",20,8,2,0,0,2,0,3,35,86,91
+CH-1,"Hazell, Thomas",18,0,1,0,0,2,0,0,21,90,100
+CH-1,"Hooper, Kaitlyn",24,5,2,0,0,2,0,0,33,94,100
+CH-1,"Lofgren, Dean",27,0,0,0,0,3,0,3,33,82,91
+CH-1,"Pattison, Levalley",35,5,1,0,0,3,0,6,50,82,88
+CH-1,"Uphoff, Robert",12,2,5,0,1,1,0,5,26,73,81
+EDEV-29,"Land, Julia",0,0,0,10,0,0,0,1,11,91,91
+EDEV-41,"Hill, Jerell",0,0,0,16,0,0,3,0,19,84,100
+MEDT-1,"Green, Michele",26,6,0,0,4,1,0,1,38,84,97
+MEDT-1,"Moore,Josephine",77,7,0,0,2,0,0,4,90,93,96
+MEDT-1,"Wade, Randy",42,2,0,0,0,2,0,1,47,94,98
+NURS-210,"Green, Michele",0,4,0,0,0,0,0,1,5,80,80
+PE-10A,"Hazell, Thomas",18,0,1,0,0,0,0,4,23,83,83
+PE-10A,"Lindheim, Gifford",17,3,1,0,0,3,0,2,26,81,92
+PE-10A,"Roman, Danielle",17,5,0,0,0,4,0,15,41,54,63
+PE-135ABC,"Shaw, Stephen",13,0,0,0,0,0,0,0,13,100,100
+PE-135ABC,"Van Kanegan,Stephen",8,0,0,0,0,0,0,2,10,80,80
+PE-275,"Rapoza, Jessica",23,4,3,0,2,2,0,1,35,86,97
+PE-277,"Fernley, Nathan",47,6,1,0,0,8,0,1,63,86,98
+RECR-207,"Hazell, Thomas",15,0,0,0,0,2,0,1,18,83,94
+SLAN-111,"Gough, Timothy",10,4,0,0,1,0,0,6,21,67,71
+SLAN-130,"Gough, Timothy",8,6,7,0,0,1,0,3,25,84,88
+ENGL-1A,"Ali, Jawad",32,7,5,0,1,5,0,6,56,79,89
+ENGL-1A,"Burnham,Stephanie",12,4,1,0,0,1,0,5,23,74,78
+ENGL-1A,"Cliett, Victoria",14,1,3,0,0,4,0,1,23,78,96
+ENGL-1A,"Degnan, Kevin",5,5,5,0,1,1,0,7,24,63,71
+ENGL-1A,"Desimone,Susanna",7,2,2,0,3,1,0,12,27,41,56
+ENGL-1A,"Douglas, Jeffrey",20,2,1,0,0,1,0,2,26,88,92
+ENGL-1A,"Harmon, Alika",5,6,2,0,1,3,0,6,23,57,74
+ENGL-1A,"Hong, Lyman",11,11,6,0,3,3,0,10,44,64,77
+ENGL-1A,"Husain, Nida",1,3,2,0,0,2,0,4,12,50,67
+ENGL-1A,"Huynh, Tiffany",6,2,3,0,1,1,0,9,22,50,59
+ENGL-1A,"Leiby, Mary",3,6,2,0,0,3,0,10,24,46,58
+ENGL-1A,"Magnesi, Miles",5,2,7,0,4,2,0,3,23,61,87
+ENGL-1A,"Marcoux, Peter",22,12,5,0,2,7,0,10,58,67,83
+ENGL-1A,"Moulton, Renee",5,5,5,0,0,8,0,3,26,58,88
+ENGL-1A,"Phillips, Lana",8,6,5,0,1,0,0,6,26,73,77
+ENGL-1A,"Shaw, Jocelyn",12,3,7,0,1,4,0,1,28,79,96
+ENGL-1A,"Stover, Mitzi",14,3,3,0,0,1,0,5,26,77,81
+ENGL-1AH,"Williams, Rachel",11,7,1,0,0,0,0,7,26,73,73
+ENGL-1AS,"Cliett, Victoria",0,0,0,18,0,0,4,1,23,78,96
+ENGL-1AS,"Harmon, Alika",0,0,0,14,0,0,3,7,24,58,71
+ENGL-1AS,"Hong, Lyman",0,0,0,11,0,0,0,9,20,55,55
+ENGL-1AS,"Leiby, Mary",0,0,0,11,0,0,3,11,25,44,56
+ENGL-1AS,"Moulton, Renee",0,0,0,17,0,0,6,3,26,65,88
+ENGL-1AS,"Shaw, Jocelyn",0,0,0,24,0,0,2,1,27,89,96
+ENGL-1B,"Hennessee, Elice",15,3,0,0,1,4,0,6,29,62,79
+ENGL-1B,"Lamborn, Sanam",8,4,4,0,1,3,0,10,30,53,67
+ENGL-1B,"Sandowicz, Ryan",6,6,3,0,0,2,0,8,25,60,68
+ENGL-1B,"Warrell, Laura",4,10,3,0,2,3,0,4,26,65,85
+ENGL-1C,"Cheung,Matthew",1,5,2,0,0,2,0,10,20,40,50
+ENGL-1C,"Crotwell, Dana",26,8,6,0,0,0,1,12,53,75,77
+ENGL-1C,"Davies, Agnes",6,13,3,0,0,1,0,0,23,96,100
+ENGL-1C,"Gavitt, Erika",4,2,9,0,2,4,0,4,25,60,84
+ENGL-1C,"Hall, Joanne",19,3,2,0,0,3,0,2,29,83,93
+ENGL-1C,"Hanrahan, Suzie",2,4,1,0,2,5,0,7,21,33,67
+ENGL-1C,"Harrison, Mickey",25,5,2,0,2,1,0,10,45,71,78
+ENGL-1C,"Page, Christopher",40,5,2,0,0,3,0,10,60,78,83
+ENGL-1C,"Panto, Danielle",5,3,6,0,1,2,0,31,48,29,35
+ENGL-1C,"Phear, Jamie",13,6,2,0,1,3,0,4,29,72,86
+ENGL-1C,"Phillips, Lana",5,5,2,0,0,0,0,16,28,43,43
+ENGL-1C,"Stover, Mitzi",7,6,3,0,1,2,0,6,25,64,76
+ENGL-1C,"Sullivan, Kamisha",0,11,8,0,0,1,0,7,27,70,74
+ENGL-24A,"Lewitzki, Rhea",15,2,1,0,0,2,0,1,21,86,95
+ENGL-30,"Peppard, Bruce",15,11,3,0,1,0,1,8,39,74,79
+ENGL-44,"Ochoa, Shane",22,5,2,0,0,1,0,10,40,73,75
+ESL-02D,"Dellapasqua,Laila",0,0,0,2,0,0,0,0,2,100,100
+ESL-53B,"Loya, Rebecca",17,3,1,0,0,1,0,1,23,91,96
+ESL-53C,"Atoofi, Saeid",17,9,3,0,0,2,0,0,31,94,100
+FREN-1,"Class, Alicia",7,5,5,0,1,1,0,6,25,68,76
+HUMA-1,"Thompson,Darrell",11,16,14,0,2,6,1,18,68,60,74
+ITAL-2,"Pescatori,Rossella",14,3,1,0,0,0,0,7,25,72,72
+JAPA-1,"Lopez, Mari",23,3,2,0,2,4,0,4,38,74,89
+JAPA-1,"Takemori, Kanzo",23,0,1,0,1,2,0,6,33,73,82
+JAPA-2,"Lopez, Mari",25,2,3,0,0,0,0,2,32,94,94
+JAPA-25,"Ketenchian,Grigor",20,4,2,0,0,3,0,2,31,84,94
+JOUR-12,"Frith, Stefanie",12,8,4,0,0,4,0,4,32,75,88
+JOUR-12,"McLaughlin, Kate",15,7,6,0,3,0,0,3,34,82,91
+SPAN-1,"Andrade, Argelia",20,3,1,0,0,0,0,5,29,83,83
+SPAN-1,"Barrio deMendoza, M",22,15,7,0,1,3,0,9,57,77,84
+SPAN-1,"Hernandez, Irma",6,12,3,0,0,1,0,9,31,68,71
+SPAN-1,"Prada, Claudia",27,4,2,0,1,0,0,6,40,83,85
+SPAN-1H,"Moina, Andres",14,5,2,0,0,0,0,4,25,84,84
+SPAN-2,"Andrade, Argelia",25,4,3,0,0,1,1,4,38,84,89
+SPAN-2,"Cuesta, Yolanda",28,3,2,0,0,0,0,2,35,94,94
+SPAN-3,"Quezada,Veronica",15,13,2,1,0,0,0,1,32,97,97
+AJ-100,"Rizzo, Geoffrey",57,10,3,0,1,4,0,7,82,85,91
+AJ-103,"Fields, Mark",16,5,3,0,2,1,1,8,36,67,78
+AJ-131,"Roberson,Andrea",17,3,0,0,1,1,0,10,32,63,69
+ARCH-100,"Greas, Mina",47,11,2,0,5,7,0,6,78,77,92
+ARCH-119,"Jacobs, Reuben",6,3,2,0,1,3,0,1,16,69,94
+ATEC-1,"Matykiewicz,Edward",4,8,1,0,1,3,0,7,24,54,71
+ATEC-25,"Anderson,Michael",4,1,0,0,0,3,0,2,10,50,80
+ATEC-81,"Anderson,Michael",3,4,0,0,1,1,0,0,9,78,100
+CADD-5,"Valladares,Daniel",12,1,0,0,0,5,0,5,23,57,78
+COSM-16,"Nishihira, Linda",6,3,5,0,0,0,0,0,14,100,100
+COSM-16,"Tran, Bruce",6,3,5,0,0,0,0,0,14,100,100
+COSM-3,"Brewer-Smith,Charle",9,2,1,0,0,1,0,1,14,86,93
+COSM-3,"Winfree, Merriel",9,2,1,0,0,1,0,1,14,86,93
+CTEC-160,"Durand, Joy",2,0,1,0,1,0,0,6,10,30,40
+ECHT-146,"Akhigbe, Paul",11,0,0,0,0,0,0,3,14,79,79
+FASH-1,"Ashley, Vera",6,2,1,1,0,1,0,5,16,63,69
+FASH-10,"Ratcliff, Priscilla",6,1,0,0,1,1,0,3,12,58,75
+FTEC-1,"Carey, Ryan",12,8,3,0,3,9,0,2,37,62,95
+FTEC-1,"Coffelt, Kevin",29,2,1,0,1,1,0,8,42,76,81
+FTEC-120,"Carey, Ryan",8,8,2,0,1,7,0,6,32,56,81
+FTEC-3,"Chang, Marvin",50,8,4,0,0,6,0,7,75,83,91
+FTEC-5,"McCracken, Mark",23,7,5,0,0,1,0,3,39,90,92
+FTEC-6,"Suen, Chen",15,3,1,0,0,4,0,2,25,76,92
+NFOO-11,"Gray, Jill",40,24,13,0,6,3,1,6,93,83,94
+NFOO-11,"Lyons, Mary",62,16,7,0,1,2,0,4,92,92,96
+NFOO-11,"Warren, Sue",27,10,2,0,0,1,0,14,54,72,74
+CSCI-1,"Russell, Solomon",11,4,2,0,1,8,0,9,35,49,74
+CSCI-3,"Ghyam, Massoud",13,9,3,0,1,3,0,11,40,63,73
+ENGR-1,"Jafarkhani, Reza",16,9,1,0,0,2,0,5,33,79,85
+MATH-12,"Granich, Megan",0,4,1,0,1,1,0,9,16,31,44
+MATH-12,"Zeitzew, Michael",13,2,2,0,1,3,0,3,24,71,88
+MATH-120,"Mata, Matthew",5,4,3,0,2,1,1,8,24,50,67
+MATH-120,"Watson, Christina",3,4,1,0,0,7,0,15,30,27,50
+MATH-130,"Bucher, Susanne",21,15,9,0,1,1,0,9,56,80,84
+MATH-130,"Dammena,Zekarias",5,2,4,0,1,3,0,11,26,42,58
+MATH-130,"Villalobos, Jose",5,9,6,0,7,1,0,3,31,65,90
+MATH-150,"Bateman,Michael",7,7,1,0,1,0,0,9,25,60,64
+MATH-150,"Bojkov,Alexander",9,2,0,0,1,5,0,7,24,46,71
+MATH-150,"Forbes, Junko",21,13,12,0,3,16,0,40,105,44,62
+MATH-150,"Gui, Le",5,2,4,0,3,8,0,1,23,48,96
+MATH-150,"Jin, Jason",5,4,7,0,5,5,0,6,32,50,81
+MATH-150,"Lackpour, Matin",23,10,7,0,0,0,0,10,50,80,80
+MATH-150,"Manikandan,Gayathri",16,6,2,0,0,1,0,8,33,73,76
+MATH-150,"Martinez, Arturo",14,3,3,1,1,12,0,24,58,36,59
+MATH-150,"Martinez, Jose",37,11,0,0,4,0,0,2,54,89,96
+MATH-150,"Morales, Eduardo",6,8,10,0,0,3,0,25,52,46,52
+MATH-150,"Moreno, Kaysa",18,8,5,0,1,4,0,16,52,60,69
+MATH-150,"Nagpal, Pavan",14,10,9,0,0,4,0,11,48,69,77
+MATH-150,"Nguyen, Hang",16,3,6,0,0,4,0,4,33,76,88
+MATH-150,"Schult Roman,Cather",26,11,11,0,0,8,0,10,66,73,85
+MATH-150,"Shihabi, Azzam",2,7,4,0,2,7,0,3,25,52,88
+MATH-150,"Wan, James",3,12,5,0,5,6,0,20,51,39,61
+MATH-150S,"Bojkov,Alexander",0,0,0,13,0,0,4,8,25,52,68
+MATH-150S,"Forbes, Junko",0,0,0,24,0,0,11,16,51,47,69
+MATH-150S,"Gui, Le",0,0,0,18,0,0,4,4,26,69,85
+MATH-150S,"Jin, Jason",0,0,0,24,0,0,2,8,34,71,76
+MATH-150S,"Manikandan,Gayathri",0,0,0,24,0,0,1,8,33,73,76
+MATH-150S,"Martinez, Arturo",0,0,0,9,0,0,8,12,29,31,59
+MATH-150S,"Morales, Eduardo",0,0,0,25,0,0,2,26,53,47,51
+MATH-150S,"Shihabi, Azzam",0,0,0,19,0,0,4,2,25,76,92
+MATH-150S,"Wan, James",0,0,0,22,0,0,9,24,55,40,56
+MATH-165,"Eldanaf, Diaa",14,15,6,0,0,7,0,6,48,73,88
+MATH-170,"Numrich, Kristine",22,10,9,0,1,2,0,15,59,69,75
+MATH-170,"Ortiz, Juan",4,9,6,0,5,4,0,0,28,68,100
+MATH-170,"Valle, Gerson",19,4,3,0,0,6,0,4,36,72,89
+MATH-180,"Barajas, Eduardo",7,8,4,0,0,2,0,8,29,66,72
+MATH-180,"Hamza, Hamza",3,5,3,0,3,2,0,10,26,42,62
+MATH-180,"Morales, Eduardo",11,13,12,0,5,4,0,11,56,64,80
+MATH-180,"Nagpal, Pavan",5,14,5,0,1,0,0,7,32,75,78
+MATH-190,"Bateman,Michael",1,1,6,1,1,3,0,13,26,35,50
+MATH-190,"Eleuteri, Robert",3,5,0,0,1,4,0,9,22,36,59
+MATH-190,"Hamza, Hamza",6,5,4,0,1,6,0,7,29,52,76
+MATH-190,"Schwartz,Elizabeth",20,6,3,0,0,1,0,7,37,78,81
+MATH-190,"Villareal, Oscar",32,23,11,0,4,7,0,11,88,75,88
+MATH-191,"Eleuteri, Robert",0,0,2,0,1,0,0,15,18,11,17
+MATH-191,"Fry, Gregory",0,2,3,0,2,10,0,35,52,10,33
+MATH-191,"Mitchell,Benjamin",22,12,2,0,0,0,0,0,36,100,100
+MATH-191,"Yun, Paul",6,19,10,1,7,7,0,16,66,55,76
+MATH-220,"Minasian, Ashod",27,3,0,0,0,0,0,1,31,97,97
+MATH-220,"Ng, Jasmine",3,1,7,0,5,7,0,31,54,20,43
+MATH-270,"Minasian, Ashod",34,3,0,0,1,0,0,1,39,95,97
+MATH-270,"Mitchell,Benjamin",25,7,2,0,1,0,0,2,37,92,95
+MATH-40,"Gill, Jack",5,3,1,0,0,1,0,3,13,69,77
+MATH-40,"Nguyen, Hoang",8,3,4,0,1,2,0,3,21,71,86
+MATH-60,"Schwartz,Elizabeth",15,7,7,0,1,3,1,14,48,60,71
+MATH-60,"Tesfom,Mokonen",15,2,2,0,1,3,0,1,24,79,96
+MATH-73,"Martinez, Jose",22,17,6,0,2,2,0,9,58,78,84
+MATH-73,"Ovanessian, Aida",5,5,9,0,0,0,0,6,25,76,76
+MATH-80,"Broderick, Carl",25,16,3,0,1,5,0,8,58,76,86
+MATH-80,"Kemp, Robert",3,5,1,0,1,1,0,3,14,64,79
+MATH-80,"Ornelas, Miguel",8,6,0,0,0,2,0,2,18,78,89
+ASTR-20,"Said, Asma",18,9,8,0,0,4,0,2,41,85,95
+GEOG-1,"Gard, Julienne",4,6,15,0,3,3,0,5,36,69,86
+GEOL-1,"Di Fiori, Sara",17,7,2,0,0,1,0,0,27,96,100
