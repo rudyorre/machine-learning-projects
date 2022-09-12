@@ -1,4 +1,2 @@
-# machine-learning-projects
-## Current Projects:
-1. Simple Linear Regression
-1. Multivariate Linear Regression
+# Machine Learning Projects
+Just an assortment of random ML-related projects I've worked on over the years. Most of this is really scuffed and not meant for prying eyes.
